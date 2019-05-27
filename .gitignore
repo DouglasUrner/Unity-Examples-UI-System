@@ -5,6 +5,11 @@
 [Bb]uilds/
 Assets/AssetStoreTools*
 
+# IDE created files
+# JetBrains Rider
+.idea
+*/Assets/Plugins/Editor/JetBrains*
+
 # Visual Studio cache directory
 .vs/
 
