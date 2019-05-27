@@ -6,6 +6,9 @@
 Assets/AssetStoreTools*
 
 # IDE created files
+
+# Atom
+
 # JetBrains Rider
 .idea
 */Assets/Plugins/Editor/JetBrains*
