@@ -1,1 +1,1 @@
-* [UICalc - a Unity of the macOS calculator](http://www.cwgtech.com/unityuitutorial/) - [GitHub code repository](https://github.com/cwgtech/UICalc)
+* [UICalc](http://www.cwgtech.com/unityuitutorial/) - a Unity clone of the macOS calculator. [GitHub code repository](https://github.com/cwgtech/UICalc)
